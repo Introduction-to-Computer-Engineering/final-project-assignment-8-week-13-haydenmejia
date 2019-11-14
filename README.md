@@ -16,3 +16,15 @@
 # (Advanced) If the micro:bit is configured by default as a master, and two micro:bits, connected to each other via the SDA and SCL lines, communicate over I2C? (Bonus for a convincing argument, one way or another.)
  -
  
+ # links: 
+  - This link for the connection of the built-in function generator.
+   link: (http://imgur.com/gallery/hEh2QPw)
+  - This link is for the connection of the ossiliscope.
+   link: (http://imgur.com/gallery/7WLgX39)
+  -This link is for the one line program for the LED and ossiliscope connection.
+   link: (http://imgur.com/gallery/IUjgB4M)
+  - This link is for the loop in the program that varies the duty cycle of the LED.
+   link: (http://imgur.com/gallery/I8iRtUu)
+  - This link is the sevo connection also with the duty cycle of the LED being controled by the movement of the servo.
+   link: (http://imgur.com/gallery/RdFtBsm) 
+ 
