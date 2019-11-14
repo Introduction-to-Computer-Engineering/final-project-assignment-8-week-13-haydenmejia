@@ -1,3 +1,17 @@
+# links for the Ossiliscope Assignment 8: 
+  - This link for the connection of the built-in function generator.
+   link: (http://imgur.com/gallery/hEh2QPw)
+  - This link is for the connection of the ossiliscope.
+   link: (http://imgur.com/gallery/7WLgX39)
+  -This link is for the one line program for the LED and ossiliscope connection.
+   link: (http://imgur.com/gallery/IUjgB4M)
+  - This link is for the loop in the program that varies the duty cycle of the LED.
+   link: (http://imgur.com/gallery/I8iRtUu)
+  - This link is the sevo connection also with the duty cycle of the LED being controled by the movement of the servo.
+   link: (http://imgur.com/gallery/RdFtBsm) 
+
+# Questions & Answers
+
 # What are the disadvantages of the other two serial communication channels, UART and SPI, and how does I2C improve on them?
  - SPI is only intended for short distances, the biggest problem is the pin connection and the number of pins required. Making connections from multiple devices only slaved to one master.  UART is difficult to implent into your software if intended to do so.  This task eats up alot of data and slows the system down.  Where I2C improves in these areas begins with using only 2 wires and being able to connect to 1008 slave devices, the speed isnt as fast as SPI but gets the job done more efficently.
  
@@ -16,15 +30,4 @@
 # (Advanced) If the micro:bit is configured by default as a master, and two micro:bits, connected to each other via the SDA and SCL lines, communicate over I2C? (Bonus for a convincing argument, one way or another.)
  -
  
- # links: 
-  - This link for the connection of the built-in function generator.
-   link: (http://imgur.com/gallery/hEh2QPw)
-  - This link is for the connection of the ossiliscope.
-   link: (http://imgur.com/gallery/7WLgX39)
-  -This link is for the one line program for the LED and ossiliscope connection.
-   link: (http://imgur.com/gallery/IUjgB4M)
-  - This link is for the loop in the program that varies the duty cycle of the LED.
-   link: (http://imgur.com/gallery/I8iRtUu)
-  - This link is the sevo connection also with the duty cycle of the LED being controled by the movement of the servo.
-   link: (http://imgur.com/gallery/RdFtBsm) 
  
