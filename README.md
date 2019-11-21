@@ -4,7 +4,6 @@
     
   - This write up is for the connection of the ossiliscope.
     - Demo: http://imgur.com/gallery/7WLgX39
-    - file:
    
   - This write up is for the one line program for the LED and oscilliscope connection.
     - Demo: http://imgur.com/gallery/IUjgB4M
