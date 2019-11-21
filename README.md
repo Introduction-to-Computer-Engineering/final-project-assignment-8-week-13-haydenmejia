@@ -30,6 +30,10 @@
  - the appropriate trigger to go with first is the SDA trigger becasue of its intial falling edge.
 # First Steps with I2C
 
+I2C Read & Write Files:
+- Read File: [i2cRead.js](i2cRead.js)
+- Write File: [i2cWrite.js](i2cWrite.js)
+
 ## section 1: Capturing I2C frame on oscilloscope
 
 Location of Capture of I2C frame: () 
