@@ -7,7 +7,7 @@
    
   - This write up is for the one line program for the LED and oscilliscope connection.
     - Demo: http://imgur.com/gallery/IUjgB4M
-    - file:
+    - file: [pws.js](pws.js)
   
   - This write up is for the loop in the program that varies the duty cycle of the LED.
     - Demo: http://imgur.com/gallery/I8iRtUu
