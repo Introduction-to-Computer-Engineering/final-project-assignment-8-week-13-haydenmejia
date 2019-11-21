@@ -32,7 +32,7 @@
  - the appropriate trigger to go with first is the SDA trigger becasue of its intial falling edge.
 # First Steps with I2C
 
-## section 1:
+## section 1: Capturing I2C frame on oscilloscope
 
 Location of Capture of I2C frame: ()
 
