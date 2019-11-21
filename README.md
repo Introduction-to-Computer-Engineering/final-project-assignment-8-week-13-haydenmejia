@@ -44,10 +44,10 @@ Location of Capture of I2C frame: ()
 -
 ## Section 2: Trying 3 addresses
 
-Signed & Unsigned single bype intergers?
--
+Signed & Unsigned single bype integers?
+
 Scroll the values on the LED matrix?
-- Reading: 
+ Reading:
 Can you get different Values from moving thr micro-bit around?
 
  
