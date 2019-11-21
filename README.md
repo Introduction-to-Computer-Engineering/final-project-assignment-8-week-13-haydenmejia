@@ -30,7 +30,7 @@
  - the first being the Adress Frame, is where the master lets the slave know where the message needs to be sent triggering one or multiple frames that are 8 bit. The second one being Data Frames, the data first is sent to the SDA which is chosen by the master or slave dependings of the R/W bit was written or read.
 5. What is the most appropriate trigger for capturing an I2C frame on the oscilloscope?
  - the appropriate trigger to go with first is the SDA trigger becasue of its intial falling edge.
-### First Steps with I2C
+# First Steps with I2C
 
 ## section 1:
 
@@ -42,7 +42,7 @@ Location of Capture of I2C frame: ()
 - 
 3. Is there a difference in what you capture if you write a number to one of the internal device addresses?
 -
-# Section 2:
+## Section 2:
 
  
  
