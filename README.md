@@ -1,4 +1,4 @@
-# links for the Oscilliscope Assignment 8: 
+# links for the Oscilliscope Assignment 8
   - This write up is for the connection of the built-in function generator.
     - Demo: http://imgur.com/gallery/hEh2QPw
     
