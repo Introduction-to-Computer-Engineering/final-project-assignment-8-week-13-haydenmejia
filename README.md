@@ -42,7 +42,13 @@ Location of Capture of I2C frame: ()
 - 
 3. Is there a difference in what you capture if you write a number to one of the internal device addresses?
 -
-## Section 2:
+## Section 2: Trying 3 addresses
+
+Signed & Unsigned single bype intergers?
+-
+Scroll the values on the LED matrix?
+- Reading: 
+Can you get different Values from moving thr micro-bit around?
 
  
  
