@@ -16,7 +16,7 @@
    file:
   
   - This link is the sevo connection also with the duty cycle of the LED being controled by the movement of the servo.
-   link: (http://imgur.com/gallery/RdFtBsm); 
+   link: (http://imgur.com/gallery/RdFtBsm) 
    file:
 
 # I2C Warm Up 
