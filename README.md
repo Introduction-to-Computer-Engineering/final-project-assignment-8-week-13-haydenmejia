@@ -34,8 +34,7 @@
 
 ## section 1: Capturing I2C frame on oscilloscope
 
-Location of Capture of I2C frame: ()
-file: 
+Location of Capture of I2C frame: () 
 
 1. What frame did you capture?
 - 
@@ -44,8 +43,6 @@ file:
 3. Is there a difference in what you capture if you write a number to one of the internal device addresses?
 -
 ## Section 2: Trying 3 addresses
-
-file:
 
 Signed & Unsigned single bype integers?
 
