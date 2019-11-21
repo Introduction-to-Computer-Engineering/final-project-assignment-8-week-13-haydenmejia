@@ -15,7 +15,7 @@
   
   - This write up is the servo connection also with the duty cycle of the LED being controled by the movement of the servo.
     - Demo: http://imgur.com/gallery/RdFtBsm
-    - file:
+    - file: [servoOscilloscope.js](servoOscilloscope.js)
 
 # I2C Warm Up 
 1. What are the disadvantages of the other two serial communication channels, UART and SPI, and how does I2C improve on them?
