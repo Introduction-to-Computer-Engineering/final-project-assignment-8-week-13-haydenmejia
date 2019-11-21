@@ -47,7 +47,7 @@ Location of Capture of I2C frame: ()
 Signed & Unsigned single bype integers?
 
 Scroll the values on the LED matrix?
- Reading:
+ - Reading:
 
 Can you get different Values from moving thr micro-bit around?
 
