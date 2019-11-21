@@ -1,22 +1,21 @@
 # links for the Oscilliscope Assignment 8: 
   - This write up is for the connection of the built-in function generator.
-    - link: (http://imgur.com/gallery/hEh2QPw)
-    - file: 
-   
+    - Demo: http://imgur.com/gallery/hEh2QPw
+    
   - This write up is for the connection of the ossiliscope.
-    - link: (http://imgur.com/gallery/7WLgX39)
+    - Demo: http://imgur.com/gallery/7WLgX39
     - file:
    
   - This write up is for the one line program for the LED and oscilliscope connection.
-    - link: (http://imgur.com/gallery/IUjgB4M)
+    - Demo: http://imgur.com/gallery/IUjgB4M
     - file:
   
   - This write up is for the loop in the program that varies the duty cycle of the LED.
-    - link: (http://imgur.com/gallery/I8iRtUu)
+    - Demo: http://imgur.com/gallery/I8iRtUu
     - file:
   
   - This write up is the servo connection also with the duty cycle of the LED being controled by the movement of the servo.
-    - link: (http://imgur.com/gallery/RdFtBsm) 
+    - Demo: http://imgur.com/gallery/RdFtBsm
     - file:
 
 # I2C Warm Up 
