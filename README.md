@@ -11,7 +11,7 @@
   
   - This write up is for the loop in the program that varies the duty cycle of the LED.
     - Demo: http://imgur.com/gallery/I8iRtUu
-    - file:
+    - file: [pwCycle.js](pwCycle.js)
   
   - This write up is the servo connection also with the duty cycle of the LED being controled by the movement of the servo.
     - Demo: http://imgur.com/gallery/RdFtBsm
