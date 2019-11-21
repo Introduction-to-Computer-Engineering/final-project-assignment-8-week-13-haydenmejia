@@ -12,22 +12,22 @@
 
 # Questions & Answers
 
-# What are the disadvantages of the other two serial communication channels, UART and SPI, and how does I2C improve on them?
+What are the disadvantages of the other two serial communication channels, UART and SPI, and how does I2C improve on them?
  - SPI is only intended for short distances, the biggest problem is the pin connection and the number of pins required. Making connections from multiple devices only slaved to one master.  UART is difficult to implent into your software if intended to do so.  This task eats up alot of data and slows the system down.  Where I2C improves in these areas begins with using only 2 wires and being able to connect to 1008 slave devices, the speed isnt as fast as SPI but gets the job done more efficently.
  
-# I2C is a two-wire serial communication channel. What are the two wires, SDA and SCL? 
+I2C is a two-wire serial communication channel. What are the two wires, SDA and SCL? 
  - SCL is a Clock Sigal, & SDA is a Data Signal.
  
-# What distinguishes the master and the slaves? 
+What distinguishes the master and the slaves? 
  - The Clock signal being located in the master is the difference between the two.
  
-# How are the two types of protocol frames different?
+How are the two types of protocol frames different?
  - the first being the Adress Frame, is where the master lets the slave know where the message needs to be sent triggering one or multiple frames that are 8 bit. The second one being Data Frames, the data first is sent to the SDA which is chosen by the master or slave dependings of the R/W bit was written or read.
  
-# What is the most appropriate trigger for capturing an I2C frame on the oscilloscope?
+What is the most appropriate trigger for capturing an I2C frame on the oscilloscope?
  - the appropriate trigger to go with first is the SDA trigger becasue of its intial falling edge.
  
-# (Advanced) If the micro:bit is configured by default as a master, and two micro:bits, connected to each other via the SDA and SCL lines, communicate over I2C? (Bonus for a convincing argument, one way or another.)
+If the micro:bit is configured by default as a master, and two micro:bits, connected to each other via the SDA and SCL lines, communicate over I2C? (Bonus for a convincing argument, one way or another.)
  -
  
  
