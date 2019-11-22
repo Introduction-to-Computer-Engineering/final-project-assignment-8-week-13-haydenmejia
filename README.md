@@ -53,9 +53,11 @@ I2C Read & Write Files:
 Call to varinat 1.3 accelerometer: we dont have first varinat micro-bit, showed no data. 
 - capture: [1.3.jpg](1.3.jpg)
 - file: [variant1.3.js](variant1.3.js)
+
 Call to varinat 1 accelerometer: seems to be communicating with accelerometer.
 - capture: [variant1.jpg](variant1.jpg)
 - file: [variant1.js](variant1.js)
+
 Call to variant 2 accelerometer: call to variant 2 address 0x1E, seems to be communicating with either variant 2s accelerormeter or variant 1 magnetometer.
 - capture: [variant2.jpg](variant2.jpg)
 - file: [variant2.js](variant2.js)
