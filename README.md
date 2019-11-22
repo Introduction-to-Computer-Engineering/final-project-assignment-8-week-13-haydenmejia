@@ -36,7 +36,7 @@ I2C Read & Write Files:
 
 ## section 1: Capturing I2C frame on oscilloscope
 
-Location of Capture of I2C frame: () 
+Location of Capture of I2C frame: [Capture.jpg](Capture.jpg) (once opened, hit the download button to view the correct resolution of picture)
 
 1. What frame did you capture?
 - 
