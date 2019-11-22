@@ -44,23 +44,29 @@ I2C Read & Write Files:
 - address frame
 2. What does the I2C write function do when there is nothing connected?
 - gives a blank scl sample reading when it goes from low to high.
-- file: [writeSignal.jpg](writeSignal.jpg)
+- capture: [writeSignal.jpg](writeSignal.jpg)
 3. Is there a difference in what you capture if you write a number to one of the internal device addresses?
 - much larger amount of data after handshake
-- file: [writeToInternal.jpg](writeToInternal.jpg)
+- capture: [writeToInternal.jpg](writeToInternal.jpg)
+- file: [writeInternalNumber.js](writeInternalNumber.js)
 ## Section 2: Writing to Read 
 Call to varinat 1.3 accelerometer: we dont have first varinat micro-bit, showed no data. 
-- file: [1.3.jpg](1.3.jpg)
+- capture: [1.3.jpg](1.3.jpg)
+- file: [variant1.3.js](variant1.3.js)
 Call to varinat 1 accelerometer: seems to be communicating with accelerometer.
-- file: [variant1.jpg](variant1.jpg)
+- capture: [variant1.jpg](variant1.jpg)
+- file: [variant1.js](variant1.js)
 Call to variant 2 accelerometer: call to variant 2 address 0x1E, seems to be communicating with either variant 2s accelerormeter or variant 1 magnetometer.
-- file: [variant2.jpg](variant2.jpg)
+- capture: [variant2.jpg](variant2.jpg)
+- file: [variant2.js](variant2.js)
 
 Signed single byte integers: 
-- file: []()
+- capture: [signed.jpg](signed.jpg)
+- file: [signed.js](signed.js)
 
 Unsigned single byte integers: 
-- file: []()
+- capture: [unsigned.jpg](unsigned.jpg)
+- file: [unsigned.js](unsigned.js)
 
 Scroll the values on the LED matrix?
  - Reading:
