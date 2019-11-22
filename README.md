@@ -41,14 +41,26 @@ I2C Read & Write Files:
 ## (once link is opened to file, hit the download button to view the correct resolution of picture)
 
 1. What frame did you capture?
-- 
+- address frame
 2. What does the I2C write function do when there is nothing connected?
-- 
+- gives a blank scl sample reading when it goes from low to high.
+- file: [writeSignal.jpg](writeSignal.jpg)
 3. Is there a difference in what you capture if you write a number to one of the internal device addresses?
--
-## Section 2: Trying 3 addresses
+- much larger amount of data after handshake
+- file: [writeToInternal.jpg](writeToInternal.jpg)
+## Section 2: Writing to Read 
+Call to varinat 1.3 accelerometer: we dont have first varinat micro-bit, showed no data. 
+- file: [1.3.jpg](1.3.jpg)
+Call to varinat 1 accelerometer: seems to be communicating with accelerometer.
+- file: [variant1.jpg](variant1.jpg)
+Call to variant 2 accelerometer: call to variant 2 address 0x1E, seems to be communicating with either variant 2s accelerormeter or variant 1 magnetometer.
+- file: [variant2.jpg](variant2.jpg)
 
-Signed & Unsigned single bype integers?
+Signed single byte integers: 
+- file: []()
+
+Unsigned single byte integers: 
+- file: []()
 
 Scroll the values on the LED matrix?
  - Reading:
